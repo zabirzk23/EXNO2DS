@@ -61,6 +61,7 @@ df.value_counts()
 df['Age'].value_counts()
 ```
 <img width="189" height="588" alt="image" src="https://github.com/user-attachments/assets/62ac1108-89a0-4314-8ccb-dd62b01b8b7d" />
+
 ```
 df.shape
 ```
@@ -143,4 +144,5 @@ sns.heatmap(corr,annot=True)
 
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+
+Thus exploratory data analysis on the given data set has been executed successfully
